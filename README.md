@@ -38,4 +38,4 @@ uv run pii-rating.py files_to_rate.txt
 
 ## Ratings
 
-The entity type identifiers the script is looking for, are those used by [https://microsoft.github.io/presidio/](Microsoft Presidio). The rating itself, was generated using Internet sources, and the aid of Microsoft Copilot. These ratings aren't perfect, they are merely guide to help judge the overall risk associated with a collection of files.
+The entity type identifiers the script is looking for, are those used by [Microsoft Presidio](https://microsoft.github.io/presidio/). The rating itself, was generated using Internet sources, and the aid of Microsoft Copilot. These ratings aren't perfect, they are merely guide to help judge the overall risk associated with a collection of files.
